@@ -5,3 +5,15 @@
 ## Why crypto? 
 
 Because it's cool, futuristic and secure. There's no other reason for that.
+
+## Wallets 
+
+- USDT/TRX (TRC20)
+
+```
+```
+
+- USDT/ETH (ERC20)
+
+```
+```
