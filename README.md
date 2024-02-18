@@ -27,3 +27,9 @@ TPXpiWACUZXtUszDbpLeDYR75NQTwngD8o
 <p align="center">
     <img src="erc20.png" />
 </p>
+
+- Bitcoin (SegWit)
+
+```
+bc1qsfhuqqh7s2d7jwxukms39aj8ymk5jf23nt85el
+```
