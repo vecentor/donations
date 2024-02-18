@@ -11,6 +11,7 @@ Because it's cool, futuristic and secure. There's no other reason for that.
 - USDT/TRX (TRC20)
 
 ```
+TPXpiWACUZXtUszDbpLeDYR75NQTwngD8o
 ```
 
 - USDT/ETH (ERC20)
